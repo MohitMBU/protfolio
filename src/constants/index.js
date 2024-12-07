@@ -72,18 +72,18 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+  // {
+  //   name: "TypeScript",
+  //   icon: typescript,
+  // },
   {
     name: "React JS",
     icon: reactjs,
   },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
+  // {
+  //   name: "Redux Toolkit",
+  //   icon: redux,
+  // },
   {
     name: "Tailwind CSS",
     icon: tailwind,
@@ -104,14 +104,14 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
+  // {
+  //   name: "figma",
+  //   icon: figma,
+  // },
+  // {
+  //   name: "docker",
+  //   icon: docker,
+  // },
 ];
 
 const experiences = [
@@ -176,7 +176,7 @@ const testimonials = [
     name: "Aditya Shindekar",
     designation: "Artices",
     company: "Aditya interprises",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
@@ -184,7 +184,7 @@ const testimonials = [
     name: "Shruti",
     designation: "Founder",
     company: "interest",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
@@ -192,7 +192,7 @@ const testimonials = [
     name: "Mayur",
     designation: "CEo",
     company: "ML Groups",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
 ];
 
